@@ -8,12 +8,21 @@ Brief :  sample app consist of two screens, One for Login Screen and the other o
 
 # Technologies & frameworks used : 
  
-Programming language  :Kotlin.
+## Programming language
+### Kotlin
 
-Design Patterns :Clean archtiecture, MVVM.
+## Design Patterns & Code structure
 
-DI : Koin, 
+### Clean archtiecture
 
-Backgrounds & async Events : Coroutines.
+### MVVM
 
-Unit Test : JUnit, Mockito, Espresso.
+## Dependency Injection
+### Koin
+
+## Backgrounds & async Events
+### Coroutines
+
+
+## Unit Test
+### JUnit, Mockito, Espresso

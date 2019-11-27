@@ -7,6 +7,8 @@ Brief :  sample app consist of two screens:-
 -  News screen. 
 
 
+![alt text](https://user-images.githubusercontent.com/8023216/69697185-3ded0280-10fb-11ea-80d6-661d0ba8e76c.png)
+
 
 # Technologies and Frameworks : 
  

@@ -1,4 +1,4 @@
-# Android-kotin-mvvm-cleanArch-base 
+# Android - kotlin - MVVM - Clean Architectural - Koin - Coroutines - Unit Test 
  
 It's a sample project that created by the latest Android technologies and frameworks to be a reference/base for everyone want to start his own project/app much faster.
 

@@ -4,7 +4,7 @@ It's a sample project that created by the latest Android technologies and framew
 
 Brief :  sample app consist of two screens:-
 -  Login Screen.
--  Tasks screen. 
+-  News screen. 
 
 
 
